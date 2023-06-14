@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Netfilx = () => {
-    const name = "deep";
+    const nameee = "deep";
     const currDate = new Date().toLocaleDateString();
     const currTime = new Date().toLocaleTimeString();
   return (
