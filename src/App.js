@@ -1,10 +1,12 @@
 import React from 'react'
 import Netfilx from './Component/Netfilx'
-
+import Image from './Component/Image'
+import "./App.css";
 const App = () => {
   return (
     <div>
-      < Netfilx/>
+      {/* < Netfilx/> */}
+      <Image/>
     </div>
   )
 }
