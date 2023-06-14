@@ -12,7 +12,7 @@ const Netfilx = () => {
       <h3>Current time is = {currTime}</h3>
     </div>
   )
-
+  }
 
 export default Netfilx
-
+  
